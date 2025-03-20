@@ -48,7 +48,7 @@ export default function About() {
         <p className="text-gray-700">
           Our journey has been one of learning, growth, and above all, a
           dedication to creating pieces that resonate with the stories of our
-          customers. Every day, we're inspired by the love, milestones, and
+          customers. Every day, we&apos;re inspired by the love, milestones, and
           personal triumphs that our jewelry gets to be a part of.
         </p>
       </div>
