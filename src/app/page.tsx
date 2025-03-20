@@ -80,7 +80,7 @@ export default function Home() {
           <div className="md:w-1/2">
             <p className="text-gray-700 mb-4">
               At SS Jewelry Store, we believe that jewelry is more than just an
-              accessory – it's a reflection of your unique story and
+              accessory – it&apos;s a reflection of your unique story and
               personality. Our passion for craftsmanship and attention to detail
               ensures that each piece we create is as special as the person
               wearing it.
@@ -88,7 +88,7 @@ export default function Home() {
             <p className="text-gray-700">
               Founded by Sarah and Sam, two lifelong friends with a shared love
               for beautiful jewelry, SS Jewelry Store has been bringing smiles
-              to our customers' faces for over a decade. We invite you to
+              to our customers&apos; faces for over a decade. We invite you to
               explore our collection and find the perfect piece to add to your
               story.
             </p>
@@ -98,7 +98,7 @@ export default function Home() {
 
       <div className="mt-16 text-center">
         <h2 className="text-3xl font-semibold mb-4">
-          Let's Create Something Beautiful Together
+          Let&apos;s Create Something Beautiful Together
         </h2>
         <p className="text-xl text-gray-600 mb-8">
           Visit our store or book a virtual consultation to start your jewelry
