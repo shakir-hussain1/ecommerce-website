@@ -27,12 +27,12 @@ export default function Contact() {
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <h2 className="text-2xl font-semibold mb-4">
-            We'd Love to Hear from You
+            We&apos;d Love to Hear from You
           </h2>
           <p className="text-gray-700 mb-6">
             Whether you have a question about our pieces, need help finding the
-            perfect gift, or just want to say hello, we're here for you. Drop us
-            a line, and we'll get back to you as soon as we can.
+            perfect gift, or just want to say hello, we&apos;re here for you. Drop us
+            a line, and we&apos;ll get back to you as soon as we can.
           </p>
           <div className="space-y-4">
             <div className="flex items-center">
@@ -56,7 +56,7 @@ export default function Contact() {
               role="alert"
             >
               <strong className="font-bold">Thank you for your message!</strong>
-              <p className="block sm:inline">We'll get back to you soon.</p>
+              <p className="block sm:inline">We&apos;ll get back to you soon.</p>
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="space-y-4">
